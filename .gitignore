@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# env
+.env
